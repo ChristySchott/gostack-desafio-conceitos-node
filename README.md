@@ -24,4 +24,4 @@ Nesse desafio criamos uma aplicação para fazer a integração com nosso backen
 
 ## :books: Aprendizados
 
-O foco desse módulo do Bootcamp foi o uso a coneção da API que construímos no backend ao nosso frontend, tratamos esses dados com os métodos GET, POST, PUT e DELETE.
+O foco desse módulo do Bootcamp foi a criação de um API e o tratamento de seus dados utilizando os métodos GET, POST, PUT e DELETE.
