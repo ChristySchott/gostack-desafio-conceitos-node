@@ -20,8 +20,8 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio criamos uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+Nesse desafio criamos uma aplicação para fazer a integração com nosso backend, o que irá permitir a criação, listagem, atualização e remoção dos repositórios.
 
 ## :books: Aprendizados
 
-O foco desse módulo do Bootcamp foi o uso de rotas em uma aplicação Node. Utilizamos os métodos GET, POST, PUT e DELETE.
+O foco desse módulo do Bootcamp foi o uso a coneção da API que construímos no backend ao nosso frontend, tratamos esses dados com os métodos GET, POST, PUT e DELETE.
